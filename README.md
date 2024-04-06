@@ -18,11 +18,11 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 </p>
 
 <br>
-<h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
+<h3> Construcción del paso </h3>
 
 $$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
-<<h3> Donde:  </h3>>
+<h3> Donde:  </h3>>
 $A_n$ : Punto actual.                                                                                  <br>
 $A_{n+1}$ : El siguiente punto, después de sumar la variación.                                         <br>
 $lr$ : La tasa de aprendisaje (learning rate).                                                         <br>
