@@ -57,14 +57,15 @@ Esperamos que con suficientes iteraciones y una elección adecuada de la tasa de
 
 
 El punto verde es el valor de inicio, los amarillos son el recorrido y el rojo es el punto final.
-<br>
 
+<br>
+<br>
 
 En nuestro caso la función de pérdida se construyó a partir de una funcion lienal
 
 $$ Y = mX +b   $$
 
-Por lo que al finalizar el desencenso obtenemos los valors del la pendiente y el corte con el eje y.
+Por lo que al finalizar el desencenso obtenemos los valores del la pendiente y el corte con el eje y.
 
 <p align="center">
 <img src="images/valores1.png"  height=80>
