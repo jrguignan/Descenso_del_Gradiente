@@ -22,7 +22,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 $$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
-<h3> Donde:  <h3>
+<<h3> Donde:  </h3>>
 $A_n$ : Punto actual.                                                                                  <br>
 $A_{n+1}$ : El siguiente punto, después de sumar la variación.                                         <br>
 $lr$ : La tasa de aprendisaje (learning rate).                                                         <br>
@@ -38,7 +38,7 @@ $\nabla f(A_n)$ : Derivada parcial de la función de pérdida, evaluada en el pu
 <img src="images/dgs.gif"  height=200>
 </p>
 
-<h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
+<h3> Gráfica de las Curvas de nivel de la Función de Pérdida </h3>
 
 <p align="center">
 <img src="images/ddg1.png"  height=450>
