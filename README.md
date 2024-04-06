@@ -5,7 +5,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 # Pasos a Seguir en la Construcción del Algoritmo
 
-**Inicialización de parámetros:** Comenzamos con un conjunto inicial de parámetros para nuestro modelo. Estos parámetros podrían ser los pesos en una red neuronal, por ejemplo.
+</h2>Inicialización de parámetros:</h2> Comenzamos con un conjunto inicial de parámetros para nuestro modelo. Estos parámetros podrían ser los pesos en una red neuronal, por ejemplo.
 
 **Cálculo del gradiente:** Calculamos el gradiente de la función de pérdida con respecto a los parámetros actuales. El gradiente indica la dirección y la magnitud del cambio más pronunciado en la función de pérdida. Queremos mover nuestros parámetros en la dirección opuesta al gradiente para minimizar la función de pérdida.
 
@@ -22,7 +22,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 $$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
-<h4> Donde:  </h4>>
+<h4> Donde:  </h4>
 $A_n$ : Punto actual.                                                                                  <br>
 $A_{n+1}$ : El siguiente punto, después de sumar la variación.                                         <br>
 $lr$ : La tasa de aprendisaje (learning rate).                                                         <br>
