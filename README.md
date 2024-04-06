@@ -18,5 +18,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 <h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
 
 <p align="center">
-<img src="images/ddg.png"  height=600>
+<img src="images/ddg.png"  height=450>
 </p>
+
+El punto verde es el valor de inicio, los amarillos son el recorrido y el rojo es el punto final.
