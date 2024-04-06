@@ -16,7 +16,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 A "newline". This text doesn't float anymore, is left-aligned.
 <table>
   <tr>
-    <td><img src="images/lr.png" alt="lr"></td>
+    <td><img src="images/lr.jpeg" alt="lr"></td>
     <td><img src="images/paso.png" alt="paso"></td>
   </tr>
 </table>
