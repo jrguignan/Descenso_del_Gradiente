@@ -17,9 +17,8 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 <img src="images/lr.png"  height=200>
 </p>
 
-<p align="center">
-<img src="images/paso.png"  height=200>
-</p>
+
+$$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
 
 **Repetición:** Repetimos hasta que se satisfaga algún criterio de parada, como un número máximo de iteraciones alcanzado, una tolerancia para la convergencia, o cualquier otro criterio definido por el usuario.
