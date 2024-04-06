@@ -17,14 +17,16 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 <img src="images/lr.png"  height=200>
 </p>
 
+<br>
+
 
 $$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
 ## Donde:
-$A_n$ :                <br>
-$A_{n+1}$ :            <br>
-$lr$ :                 <br>
-$\nabla f(A_n)$ :               <br>
+$A_n$ : Punto actual                                                                                  <br>
+$A_{n+1}$ : El siguiente punto, despues de sumar la variación                                         <br>
+$lr$ : La tasa de aprendisaje (learning rate)                                                         <br>
+$\nabla f(A_n)$ : Derivada parcial de la funcion de pérdida, evaluada en el punto actual              <br>
 
 
 
