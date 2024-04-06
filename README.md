@@ -12,8 +12,6 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 **Actualización de parámetros:** Ajustamos los parámetros en la dirección opuesta al gradiente multiplicado por una tasa de aprendizaje. La tasa de aprendizaje controla qué tan grande es el paso que damos en cada iteración. Una tasa de aprendizaje más grande puede llevar a convergencia más rápida, pero también puede hacer que el algoritmo sea inestable o que se salte mínimos locales. Por otro lado, una tasa de aprendizaje más pequeña puede hacer que la convergencia sea más lenta pero más precisa.
 
 
-
-A "newline". This text doesn't float anymore, is left-aligned.
 <table>
   <tr>
     <td><img src="images/lr.jpeg" alt="lr"  width="384px" height="123px ></td>
