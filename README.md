@@ -14,8 +14,8 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 <table>
   <tr>
-    <td><img src="images/lr.png" alt="lr"  width="300px" height="100px ></td>
-    <td><img src="images/paso.png" alt="paso"   ></td>
+    <td><img src="images/lr.png" alt="lr"  width="400px" height="125px ></td>
+    <td><img src="images/paso.png" alt="paso" width="50px" height="150px  ></td>
   </tr>
 </table>
 
