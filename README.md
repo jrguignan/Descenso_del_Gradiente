@@ -6,10 +6,14 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 # Pasos a Seguir en la Construcción del Algoritmo
 
 ## Inicialización de parámetros
- Comenzamos con un conjunto inicial de parámetros para nuestro modelo. Estos parámetros podrían ser los pesos en una red neuronal, por ejemplo.
+ Comenzamos con un conjunto inicial de parámetros para nuestro modelo. En nuestro caso es la posición inicial en la función del error, el valor de la tasa de apredizaje (lr) y el valor de h, la variación en la derivada.
 
  ## Cálculo del gradiente
  Calculamos el gradiente de la función de pérdida con respecto a los parámetros actuales. El gradiente indica la dirección y la magnitud del cambio más pronunciado en la función de pérdida. Queremos mover nuestros parámetros en la dirección opuesta al gradiente para minimizar la función de pérdida.
+
+$$ f'(x) \approx \frac{f(x + h) - f(x)}{h} $$
+
+Se utilizó esta expresión, se tuvo en cuenta que la función de pérdida (función de error) es un plano de 2 dimensiones.
 
 ## Actualización de parámetros 
 Ajustamos los parámetros en la dirección opuesta al gradiente multiplicado por una tasa de aprendizaje. La tasa de aprendizaje controla qué tan grande es el paso que damos en cada iteración. Una tasa de aprendizaje más grande puede llevar a convergencia más rápida, pero también puede hacer que el algoritmo sea inestable o que se salte mínimos locales. Por otro lado, una tasa de aprendizaje más pequeña puede hacer que la convergencia sea más lenta pero más precisa.
