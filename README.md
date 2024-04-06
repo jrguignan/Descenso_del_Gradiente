@@ -15,8 +15,8 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 **Convergencia:** Esperamos que, con suficientes iteraciones y una elección adecuada de la tasa de aprendizaje, el algoritmo converja a un mínimo local o global de la función de pérdida.
 
-<h3> Gráfica de las curvas de nivel de la función de pérdida <h3>
+<h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
 
 <p align="center">
-<img src="images/ddg.png"  height=308>
+<img src="images/ddg.png"  height=600>
 </p>
