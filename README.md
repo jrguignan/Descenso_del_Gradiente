@@ -3,7 +3,7 @@ Es un algoritmo de optimización utilizado para encontrar el mínimo de una func
 
 Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de la función de pérdida siguiendo la dirección más pronunciada de descenso, que es el gradiente. Es un algoritmo fundamental en el campo del aprendizaje automático y se utiliza en una variedad de contextos, desde la regresión lineal hasta el entrenamiento de redes neuronales profundas.
 
-# Pasos a seguir por el algoritmo
+# Pasos a Seguir en la Construcción del Algoritmo
 
 **Inicialización de parámetros:** Comenzamos con un conjunto inicial de parámetros para nuestro modelo. Estos parámetros podrían ser los pesos en una red neuronal, por ejemplo.
 
@@ -15,10 +15,19 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 **Convergencia:** Esperamos que, con suficientes iteraciones y una elección adecuada de la tasa de aprendizaje, el algoritmo converja a un mínimo local o global de la función de pérdida.
 
+<p align="center">
+<img src="images/dgs.png"  height=200>
+</p>
+
 <h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
 
 <p align="center">
-<img src="images/ddg.png"  height=450>
+<img src="images/ddg1.png"  height=450>
 </p>
 
+
 El punto verde es el valor de inicio, los amarillos son el recorrido y el rojo es el punto final.
+
+<p align="center">
+<img src="images/valores1.png"  height=150>
+</p>
