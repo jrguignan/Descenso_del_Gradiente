@@ -20,6 +20,13 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 $$A_{n+1} = A_n -lr\nabla f(A_n)$$
 
+## Donde:
+$A_n$ :                <br>
+$A_{n+1}$ :            <br>
+$lr$ :                 <br>
+$\nabla f(A_n)$ :               <br>
+
+
 
 **Repetición:** Repetimos hasta que se satisfaga algún criterio de parada, como un número máximo de iteraciones alcanzado, una tolerancia para la convergencia, o cualquier otro criterio definido por el usuario.
 
