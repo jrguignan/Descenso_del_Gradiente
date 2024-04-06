@@ -11,6 +11,11 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 
 **Actualización de parámetros:** Ajustamos los parámetros en la dirección opuesta al gradiente multiplicado por una tasa de aprendizaje. La tasa de aprendizaje controla qué tan grande es el paso que damos en cada iteración. Una tasa de aprendizaje más grande puede llevar a convergencia más rápida, pero también puede hacer que el algoritmo sea inestable o que se salte mínimos locales. Por otro lado, una tasa de aprendizaje más pequeña puede hacer que la convergencia sea más lenta pero más precisa.
 
+<div style="display: flex;">
+    <img src="lr.png" alt="Imagen 1" style="flex: 50%; padding: 5px;">
+    <img src="paso.png" alt="Imagen 2" style="flex: 50%; padding: 5px;">
+</div>
+
 **Repetición:** Repetimos hasta que se satisfaga algún criterio de parada, como un número máximo de iteraciones alcanzado, una tolerancia para la convergencia, o cualquier otro criterio definido por el usuario.
 
 **Convergencia:** Esperamos que, con suficientes iteraciones y una elección adecuada de la tasa de aprendizaje, el algoritmo converja a un mínimo local o global de la función de pérdida.
@@ -25,7 +30,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 <img src="images/ddg1.png"  height=450>
 </p>
 
-
+<br>
 El punto verde es el valor de inicio, los amarillos son el recorrido y el rojo es el punto final.
 
 <p align="center">
