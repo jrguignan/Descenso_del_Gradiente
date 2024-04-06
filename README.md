@@ -16,7 +16,7 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 **Convergencia:** Esperamos que, con suficientes iteraciones y una elección adecuada de la tasa de aprendizaje, el algoritmo converja a un mínimo local o global de la función de pérdida.
 
 <p align="center">
-<img src="images/dgs.png"  height=200>
+<img src="images/dgs.gif"  height=200>
 </p>
 
 <h3> Gráfica de las Curvas de nivel de la Función de Pérdida <h3>
@@ -29,5 +29,5 @@ Su nombre proviene del hecho de que estamos "descendiendo" por la superficie de 
 El punto verde es el valor de inicio, los amarillos son el recorrido y el rojo es el punto final.
 
 <p align="center">
-<img src="images/valores1.png"  height=150>
+<img src="images/valores1.png"  height=80>
 </p>
