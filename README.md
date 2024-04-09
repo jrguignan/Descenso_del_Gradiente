@@ -70,3 +70,8 @@ Por lo que al finalizar el desencenso obtenemos los valores del la pendiente y e
 <p align="center">
 <img src="images/valores1.png"  height=80>
 </p>
+
+# Autor
+- José R. Guignan
+- Mail: joserguignan@gmail.com
+- Linkedin: [https://www.linkedin.com/in/jrguignan](https://www.linkedin.com/in/jrguignan)
